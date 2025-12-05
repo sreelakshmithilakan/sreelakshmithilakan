@@ -1,4 +1,4 @@
-# Hi, I’m Sree 👋  
+# Sreelakshmi Thilakan 👋  
 **Business Intelligence & Data Analytics**  
 Turning raw data into meaningful stories that drive better decisions 📊✨
 
@@ -35,7 +35,7 @@ Here are a few projects that reflect my journey in BI and analytics:
 | 🧭 **App User Engagement Study** | Funnel insights, active user metrics, behavioral segmentation |
 | 💬 **Customer Perception Survey Dashboard** | Survey analytics + visualization for decision stakeholders |
 
-More coming soon as I continue exploring real-world business datasets!
+Additional BI projects will be added as I continue working with real-world business data.
 
 ---
 
