@@ -1,5 +1,5 @@
 # Sreelakshmi Thilakan 👋  
-**Business Intelligence & Data Analytics**  
+**Data Analytics with BI focus**  
 Turning raw data into meaningful stories that drive better decisions 📊✨
 
 ---
