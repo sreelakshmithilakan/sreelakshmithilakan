@@ -9,7 +9,7 @@ Business enthusiast with an engineering foundation and MBA, moving confidently i
 
 Currently leveling up in:  
 Data Analytics | Power BI | SQL | Excel | Python (Analytics)  
-📍 India  
+📍 Kochi, Kerala, India  
 🔗 [LinkedIn](https://www.linkedin.com/in/sreelakshmithilakan/) | 🌐 [Notion Portfolio](https://www.notion.so/Sreelakshmi-Thilakan-Data-Stories-2bb3af78860580f49b1fd96f8153bb49)
 
 
