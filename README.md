@@ -38,6 +38,15 @@ Here are a few projects that reflect my journey in BI and analytics:
 Additional BI projects will be added as I continue working with real-world business data.
 
 ---
+### 🏅 Certifications
+- **Data Analytics Certification** – Entri  
+- **Data Analytics Certificate** – Illinois Tech (US)  
+- **Project Certificate in Data Analytics** – Entri  
+- **Microsoft Excel (Advanced) & Microsoft Power BI** – Entri  
+- **NSDC Certification** – National Skill Development Corporation  
+- **Certified International Financial Reporting Standards (IFRS)** – ACCA  
+
+---
 
 ### 🎯 What I'm Exploring Now
 - Product analytics & retention storytelling  
