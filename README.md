@@ -42,7 +42,7 @@ Additional BI projects will be added as I continue working with real-world busin
 - **Data Analytics Certification** – Entri  
 - **Data Analytics Certificate** – Illinois Tech (US)  
 - **Project Certificate in Data Analytics** – Entri  
-- **Microsoft Excel (Advanced) & Microsoft Power BI** – Entri  
+- **Microsoft Excel (Advanced) & Microsoft Power BI** 
 - **NSDC Certification** – National Skill Development Corporation  
 - **Certified International Financial Reporting Standards (IFRS)** – ACCA  
 
