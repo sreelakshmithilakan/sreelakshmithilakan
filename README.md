@@ -40,7 +40,9 @@ Additional BI projects will be added as I continue working with real-world busin
 ---
 ### 🏅 Certifications
 - **Data Analytics Certification** – Entri  
-- **Data Analytics Certificate** – Illinois Tech (US)  
+- **Data Analytics Certificate** – Illinois Tech (US)
+- **Google Data Analytics Professional Certificate** – Google
+- **Google Business Intelligence Professional Certificate (In Progress)** – Google
 - **Project Certificate in Data Analytics** – Entri  
 - **Microsoft Excel (Advanced) & Microsoft Power BI** 
 - **NSDC Certification** – National Skill Development Corporation  
