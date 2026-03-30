@@ -32,7 +32,7 @@ I focus on solving business problems using data, particularly in user behavior a
 |---|---|---|
 | [Global Cybersecurity Incident Analysis](https://github.com/sreelakshmithilakan/Global-Cybersecurity-Incident-Analysis-2015-2024-) | Identified risk patterns and attack severity trends using 10-year cybersecurity data with statistical validation | Python, Pandas, SciPy, Matplotlib |
 | [FedMobile App User Engagement Analysis](https://github.com/sreelakshmithilakan/FedMobile-App-Usage-and-Customer-Interaction-Analysis) | Analyzed user behavior, conversion funnel, and revenue drivers to identify drop-offs and engagement patterns | SQL, MySQL, Power BI |
-| [Online Course Platform Analytics](https://github.com/sreelakshmithilakan/Online-Course-Platform-Analysis-PowerBI-Dashboard) | Built KPI-driven dashboards to evaluate student engagement and course performance | Power BI, Excel, DAX |
+| [Student Journey Analytics in Online Learning: Engagement to Completion](https://github.com/sreelakshmithilakan/Online-Course-Platform-Analysis-PowerBI-Dashboard) | Built KPI-driven dashboards to evaluate student engagement and course performance | Power BI, Excel, DAX |
 
 
 ---
