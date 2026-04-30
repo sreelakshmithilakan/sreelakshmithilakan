@@ -1,6 +1,6 @@
 # Sreelakshmi Thilakan 👋
 
-Product Analytics & Business Intelligence | SQL · Python · Power BI | User Behavior & Revenue Insights
+Data Analyst | User Behavior & Product Analytics | SQL · Python · Power BI
 
 📍 Kochi, Kerala, India | [LinkedIn](https://www.linkedin.com/in/sreelakshmithilakan/) | [Portfolio](https://www.notion.so/Sreelakshmi-Thilakan-Data-Stories-2bb3af78860580f49b1fd96f8153bb49)
 
@@ -8,9 +8,13 @@ Product Analytics & Business Intelligence | SQL · Python · Power BI | User Beh
 
 ## About
 
-I work across the full analytics workflow: cleaning and modeling data, writing SQL for behavioral analysis, building Power BI dashboards, and validating findings with statistical testing.
+## About
 
-I focus on solving business problems using data, particularly in user behavior analysis, conversion optimization, and performance analytics.
+I enjoy working with data to understand how people behave and make decisions.
+
+I’ve been building projects around user behavior, funnels, and engagement patterns using SQL, Python, and Power BI. I like taking messy data, finding patterns, and turning them into insights that actually make sense from a business point of view.
+
+Right now, I’m focused on improving my skills in product analytics and building projects that go beyond dashboards into real-world problem solving.
 
 ---
 
