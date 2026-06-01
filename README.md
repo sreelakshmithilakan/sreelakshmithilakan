@@ -1,66 +1,64 @@
-# Sreelakshmi Thilakan 👋
+# Sreelakshmi Thilakan 
 
-Data Analyst | User Behavior & Product Analytics | SQL · Python · Power BI
+**Data Analyst | Business Intelligence | SQL · Python · Power BI**
 
-📍 Kochi, Kerala, India | [LinkedIn](https://www.linkedin.com/in/sreelakshmithilakan/) | [Portfolio](https://www.notion.so/Sreelakshmi-Thilakan-Data-Stories-2bb3af78860580f49b1fd96f8153bb49)
+📍 Kochi, Kerala, India | [LinkedIn](https://www.linkedin.com/in/sreelakshmithilakan/) 
 
 ---
 
 ## About
 
-## About
+I am a Data Analyst with a strong interest in Business Intelligence, user behavior analytics, and data-driven decision-making.
 
-I enjoy working with data to understand how people behave and make decisions.
+Through hands-on projects in customer analytics, workforce analytics, online learning analytics, and cybersecurity analytics, I have developed experience in transforming raw data into meaningful business insights using SQL, Python, Power BI, and data modeling techniques.
 
-I’ve been building projects around user behavior, funnels, and engagement patterns using SQL, Python, and Power BI. I like taking messy data, finding patterns, and turning them into insights that actually make sense from a business point of view.
-
-Right now, I’m focused on improving my skills in product analytics and building projects that go beyond dashboards into real-world problem solving.
+I enjoy exploring patterns, measuring performance, and building analytical solutions that help organizations understand behavior, improve outcomes, and make informed decisions.
 
 ---
 
 ## Toolkit
 
-| Area | Tools and Techniques |
-|---|---|
-| Data Visualization and Reporting | **Power BI**, Excel Dashboards, DAX |
-| Data Querying and Processing | **SQL**, Data Modeling, Relational Schema Design |
-| Data Analysis and Exploration | **Python (Pandas, NumPy, SciPy)**, EDA, Statistical Analysis |
-| Business and Product Analytics | Funnel Analysis, Cohort Analysis, Revenue Decomposition, KPI Design, Engagement Metrics |
-| Analytics Workflow | Data Cleaning, Feature Engineering, Synthetic Data Generation, Insight Reporting |
+| Area                           | Tools & Techniques                                                                             |
+| ------------------------------ | ---------------------------------------------------------------------------------------------- |
+| Data Visualization & Reporting | Power BI, DAX, Excel Dashboards                                                                |
+| Data Querying & Modeling       | SQL, MySQL, Relational Data Modeling, Database Design                                          |
+| Data Analysis & Exploration    | Python (Pandas, NumPy, SciPy), EDA, Statistical Analysis                                       |
+| Business Intelligence          | KPI Development, Dashboard Design, Reporting & Performance Monitoring                          |
+| Analytics Techniques           | Funnel Analysis, Segmentation Analysis, Cohort Analysis, Trend Analysis, Revenue Decomposition |
+| Data Preparation               | Data Cleaning, Feature Engineering, Synthetic Data Generation                                  |
 
 ---
 
-## Projects
+## Featured Projects
 
-| Project | Focus | Tools |
-|---|---|---|
-| [Global Cybersecurity Incident Analysis](https://github.com/sreelakshmithilakan/Global-Cybersecurity-Incident-Analysis-2015-2024-) | Identified risk patterns and attack severity trends using 10-year cybersecurity data with statistical validation | Python, Pandas, SciPy, Matplotlib |
-| [FedMobile App User Engagement Analysis](https://github.com/sreelakshmithilakan/FedMobile-App-Usage-and-Customer-Interaction-Analysis) | Analyzed user behavior, conversion funnel, and revenue drivers to identify drop-offs and engagement patterns | SQL, MySQL, Power BI |
-| [Student Journey Analytics in Online Learning: Engagement to Completion](https://github.com/sreelakshmithilakan/Online-Course-Platform-Analysis-PowerBI-Dashboard) | Built KPI-driven dashboards to evaluate student engagement and course performance | Power BI, Excel, DAX |
-
+| Project                                                                                                                                    | Description                                                                                                                                                                                                                              | Tools                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [Workforce Wellness Platform Analytics](https://github.com/sreelakshmithilakan/Workforce-Wellness-Platform-Analytics)                                                                                                 | Developed an end-to-end workforce analytics solution to evaluate employee engagement, burnout risk, participation behavior, and wellness program effectiveness through SQL analysis, data modeling, and interactive Power BI dashboards. | SQL, MySQL, Power BI, DAX    |
+| [Digital Banking Customer Analytics](https://github.com/sreelakshmithilakan/FedMobile-App-Usage-and-Customer-Interaction-Analysis)         | Analyzed customer behavior, conversion funnels, and transaction performance to identify engagement gaps, conversion patterns, and revenue drivers within a digital banking platform.                                                     | SQL, MySQL                   |
+| [Online Learning Platform Performance Analytics](https://github.com/sreelakshmithilakan/Online-Course-Platform-Analysis-PowerBI-Dashboard) | Evaluated learner engagement, course progression, and completion patterns through behavioral analysis, KPI development, and interactive Power BI reporting.                                                                              | Power BI, DAX                |
+| [Global Cybersecurity Incident Analysis](https://github.com/sreelakshmithilakan/Global-Cybersecurity-Incident-Analysis-2015-2024-)         | Performed exploratory and statistical analysis on global cybersecurity incidents to identify threat trends, financial impacts, and risk drivers.                                                                                         | Python, Pandas, NumPy, SciPy |
 
 ---
 
 ## Certifications
 
-- Google Data Analytics Professional Certificate  
-- Google Business Intelligence Professional Certificate (In Progress)  
-- Data Analytics Certificate – Illinois Tech (US)  
-- Advanced Excel & Power BI Certification  
+* Google Data Analytics Professional Certificate
+* Google Business Intelligence Professional Certificate (In Progress)
+* Data Analytics Certificate – Illinois Tech
+* Advanced Excel & Power BI Certification
 
 ---
 
-## Currently Focused On
+## Currently Exploring
 
-- Product analytics and user retention modeling  
-- Revenue and performance analytics  
-- Data modeling for scalable BI dashboards  
-- Building real-world analytics case studies  
+* Business Intelligence & Dashboard Design
+* Advanced SQL Analytics
+* Data Modeling for Analytics Solutions
+* FastAPI for Analytics Applications
+* User Behavior & Performance Analytics
 
 ---
 
 ## Open To Opportunities
 
-Open to Data Analyst and BI Analyst roles, particularly in product analytics, dashboard development, and data-driven decision-making environments.
-
----
+Open to Data Analyst, Business Analyst, and Business Intelligence Analyst opportunities focused on analytics, reporting, dashboard development, and data-driven decision-making.
