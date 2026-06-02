@@ -9,7 +9,7 @@
 ## About
 
 Data Analyst with hands-on experience in Business Intelligence, user behavior analytics, and data-driven decision-making across HR, marketing, and business operations.
-I've built end-to-end analytics projects spanning customer analytics, workforce wellness, online learning performance, and cybersecurity risk — transforming raw data into structured insights using SQL, Python, Power BI, and data modeling.
+I've built end-to-end analytics projects spanning customer analytics, workforce wellness, online learning performance, and cybersecurity risk, transforming raw data into structured insights using SQL, Python, Power BI, and data modeling.
 I enjoy finding patterns in complex data, designing KPI frameworks, and building analytical solutions that help organizations understand behavior, improve outcomes, and make better decisions.
 
 ---
