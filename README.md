@@ -8,11 +8,9 @@
 
 ## About
 
-I am a Data Analyst with a strong interest in Business Intelligence, user behavior analytics, and data-driven decision-making.
-
-Through hands-on projects in customer analytics, workforce analytics, online learning analytics, and cybersecurity analytics, I have developed experience in transforming raw data into meaningful business insights using SQL, Python, Power BI, and data modeling techniques.
-
-I enjoy exploring patterns, measuring performance, and building analytical solutions that help organizations understand behavior, improve outcomes, and make informed decisions.
+Data Analyst with hands-on experience in Business Intelligence, user behavior analytics, and data-driven decision-making across HR, marketing, and business operations.
+I've built end-to-end analytics projects spanning customer analytics, workforce wellness, online learning performance, and cybersecurity risk — transforming raw data into structured insights using SQL, Python, Power BI, and data modeling.
+I enjoy finding patterns in complex data, designing KPI frameworks, and building analytical solutions that help organizations understand behavior, improve outcomes, and make better decisions.
 
 ---
 
