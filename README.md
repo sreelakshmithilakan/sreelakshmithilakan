@@ -1,6 +1,6 @@
 # Sreelakshmi Thilakan 
 
-**Data Analyst | Business Intelligence | SQL · Python · Power BI**
+**Data Analyste | SQL · Power BI · Python · Excel**
 
 📍 Kochi, Kerala, India | [LinkedIn](https://www.linkedin.com/in/sreelakshmithilakan/) 
 
