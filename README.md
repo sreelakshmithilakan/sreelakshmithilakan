@@ -27,15 +27,6 @@ I enjoy finding patterns in complex data, designing KPI frameworks, and building
 
 ---
 
-## Featured Projects
-
-| Project                                                                                                                                    | Description                                                                                                                                                                                                                              | Tools                        |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [Workforce Wellness Platform Analytics](https://github.com/sreelakshmithilakan/Workforce-Wellness-Platform-Analytics)                                                                                                 | Developed an end-to-end workforce analytics solution to evaluate employee engagement, burnout risk, participation behavior, and wellness program effectiveness through SQL analysis, data modeling, and interactive Power BI dashboards. | SQL, MySQL, Power BI, DAX    |
-| [Digital Banking Customer Analytics](https://github.com/sreelakshmithilakan/FedMobile-App-Usage-and-Customer-Interaction-Analysis)         | Analyzed customer behavior, conversion funnels, and transaction performance to identify engagement gaps, conversion patterns, and revenue drivers within a digital banking platform.                                                     | SQL, MySQL                   |
-| [Online Learning Platform Performance Analytics](https://github.com/sreelakshmithilakan/Online-Course-Platform-Analysis-PowerBI-Dashboard) | Evaluated learner engagement, course progression, and completion patterns through behavioral analysis, KPI development, and interactive Power BI reporting.                                                                              | Power BI, DAX                |
-| [Global Cybersecurity Incident Analysis](https://github.com/sreelakshmithilakan/Global-Cybersecurity-Incident-Analysis-2015-2024-)         | Performed exploratory and statistical analysis on global cybersecurity incidents to identify threat trends, financial impacts, and risk drivers.                                                                                         | Python, Pandas, NumPy, SciPy |
-
 ---
 
 ## Certifications
